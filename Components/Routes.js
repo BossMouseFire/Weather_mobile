@@ -1,0 +1,13 @@
+import React from 'react'
+import { Router, Scene } from 'react-native-router-flux'
+import App from './App'
+import Weather from './Weather'
+const Routes = () => (
+    <Router>
+        <Scene key = "root">
+            <Scene key = "home" component = {App} title = "Главная" initial = {true} />
+            <Scene key = "get" component = {Weather} title = "Погода"  />
+        </Scene>
+    </Router>
+);
+export default Routes

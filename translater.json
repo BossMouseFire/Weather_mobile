@@ -1,0 +1,17 @@
+{
+  "translations": [
+    {
+      "tornado": "торнадо",
+      "tropical storm": "тропический шторм",
+      "hurricane": "ураган",
+      "severe thunderstorms": "сильные грозы",
+      "thunderstorms": "гроза",
+      "mixed rain and snow": "смешанный дождь и снег",
+      "mixed rain and sleet": "смешанный дождь и мокрый снег",
+      "mixed snow and sleet": "смешанный снег и мокрый снег",
+      "freezing drizzle": "изморозь",
+      "drizzle": "моросить",
+      "freezing rain": "ледяной дождь"
+    }
+  ]
+}
